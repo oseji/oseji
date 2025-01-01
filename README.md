@@ -4,16 +4,12 @@ Your new fav frontend dev here! ✨
 I spend my days crafting websites that actually slap, we're talking responsive, interactive, and straight-up gorgeous. I'm self-taught and proud, powered by coffee and pure determination 💻
 currently vibing with:
 
-React (my beloved)
-Clean code (most of the time)
-Making things pretty (it's a lifestyle)
-Web animations (obsessed with GSAP and making things come alive ✨)
+- React (my beloved)
+- Clean code (most of the time)
+- Making things pretty (it's a lifestyle)
+- Web animations (obsessed with GSAP and making things come alive ✨)
 
-here to build cool stuff and maybe break the internet (in a good way) 🚀
-
-I love working with **React** and **TailwindCSS**, bringing designs to life, and adding a touch of magic with animations! 🪄 When I'm not coding, you'll probably find me exploring new tech, leveling up my skills, or binge-watching something awesome. 🎥🍿  
-
-I'm all about growing, collaborating, and building cool stuff. Let’s make something amazing together! 🌟
+I'm here to grow, collaborate and  build cool stuff that may break the internet (in a good way) 🚀
 
 ---
 
