@@ -1,8 +1,7 @@
 # Hi there 👋, I'm Ose
 
 Your new fav frontend dev here! ✨
-I spend my days crafting websites that actually slap, we're talking responsive, interactive, and straight-up gorgeous.
-self-taught and proud, powered by coffee and pure determination 💻
+I spend my days crafting websites that actually slap, we're talking responsive, interactive, and straight-up gorgeous. I'm self-taught and proud, powered by coffee and pure determination 💻
 currently vibing with:
 
 React (my beloved)
