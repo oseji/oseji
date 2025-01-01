@@ -52,6 +52,6 @@ Welcome to my GitHub profile! I'm a self-taught **Frontend Developer** with a pa
 ## 📫 Let's Connect:
 - 🌐 **Portfolio**: [oseji.vercel.app](https://oseji.vercel.app/)  
 - 💼 **LinkedIn**: [Ose (John) Oziegbe](https://www.linkedin.com/in/ose-oziegbe-648154254)  
-- 📧 **Email**: [oseoziegbe0@gmail.com](oseoziegbe0@gmail.com)  
+- 📧 **Email**: [oseoziegbe0@gmail.com](mailto:oseoziegbe0@gmail.com)  
 
 Thanks for stopping by! 🚀 Let's create something amazing together.
