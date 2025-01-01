@@ -16,9 +16,8 @@ I'm here to grow, collaborate and  build cool stuff that may break the internet 
 ## 🚀 About Me:
 - 🌟 **Frontend Focused**: 2+ years of experience building web applications with **HTML**, **CSS**, **JavaScript**, and **React**.
 - 🖌️ **Animation Enthusiast**: Crafting stunning animations using **GSAP** and **Framer Motion**.
-- 💻 **DevOps Explorer**: Gaining hands-on experience with **Docker**, **Kubernetes**, and **AWS** during internships.
 - 🔧 **Current Project**: Building **Binge**, a movie-viewing platform, with login, registration, and payment features.
-- 📚 **Always Learning**: Exploring advanced **TypeScript** concepts and mastering **DevSecOps** workflows.
+- 📚 **Always Learning**: Exploring advanced **TypeScript** concepts.
 
 ---
 
