@@ -38,7 +38,7 @@ Welcome to my GitHub profile! I'm a self-taught **Frontend Developer** with a pa
 
 ---
 
-## 🌟 Projects:
+## 🌟 Ongoing Projects:
 - [**Binge**](https://binge-beta.vercel.app/): _Ongoing Project_  
   A movie discovery platform with features like registration, authentication, watching trailers, searching and payment integration.  
 
