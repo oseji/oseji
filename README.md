@@ -33,8 +33,8 @@ Welcome to my GitHub profile! I'm a self-taught **Frontend Developer** with a pa
 ---
 
 ## 📈 GitHub Stats:
-![Ose's GitHub stats](https://github-readme-stats.vercel.app/api?username=OseOziegbe&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OseOziegbe&layout=compact&theme=radical)
+![Ose's GitHub stats](https://github-readme-stats.vercel.app/api?username=oseji&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oseji&layout=compact&theme=radical)
 
 ---
 
@@ -51,7 +51,7 @@ Welcome to my GitHub profile! I'm a self-taught **Frontend Developer** with a pa
 
 ## 📫 Let's Connect:
 - 🌐 **Portfolio**: [oseji.vercel.app](https://oseji.vercel.app/)  
-- 💼 **LinkedIn**: [Ose (John) Oziegbe](www.linkedin.com/in/ose-oziegbe-648154254)  
-- 📧 **Email**: [oseoziegbe0@gmail.com](#oseoziegbe0@gmail.com)  
+- 💼 **LinkedIn**: [Ose (John) Oziegbe](https://www.linkedin.com/in/ose-oziegbe-648154254)  
+- 📧 **Email**: [oseoziegbe0@gmail.com](oseoziegbe0@gmail.com)  
 
 Thanks for stopping by! 🚀 Let's create something amazing together.
