@@ -19,11 +19,17 @@ Welcome to my GitHub profile! I'm a self-taught **Frontend Developer** with a pa
   ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
 
 - **Frontend**:  
-  ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)  
+ ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)  
+  ![Redux Toolkit](https://img.shields.io/badge/-Redux%20Toolkit-764ABC?logo=redux&logoColor=white&style=flat)  
   ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat)  
+  ![SCSS](https://img.shields.io/badge/-SCSS-CC6699?logo=sass&logoColor=white&style=flat)  
   ![GSAP](https://img.shields.io/badge/-GSAP-88CE02?logo=greensock&logoColor=white&style=flat)  
   ![Framer Motion](https://img.shields.io/badge/-Framer%20Motion-black?logo=framer&logoColor=white&style=flat)
 
+- **Backend & APIs**:  
+  ![API Integration](https://img.shields.io/badge/-API%20Integration-4285F4?logo=google&logoColor=white&style=flat)  
+  ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat)
+  
 ---
 
 ## 📈 GitHub Stats:
