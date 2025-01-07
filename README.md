@@ -14,10 +14,14 @@ I'm here to grow, collaborate and  build cool stuff that may break the internet 
 ---
 
 ## 🚀 About Me:
-- 🌟 **Frontend Focused**: 2+ years of experience building web applications with **HTML**, **CSS**, **JavaScript**, and **React**.
-- 🖌️ **Animation Enthusiast**: Crafting stunning animations using **GSAP** and **Framer Motion**.
-- 🔧 **Current Project**: Building **Binge**, a movie-viewing platform, with login, registration, and payment features.
-- 📚 **Always Learning**: Exploring advanced **TypeScript** concepts.
+🌟 **Frontend Wizard**: With 2+ years of crafting sleek and functional web apps using **HTML**, **CSS**, **JavaScript**, and **React**, I bring designs to life! ✨  
+
+🖌️ **Animation Fanatic**: I sprinkle some magic on screens with stunning animations powered by **GSAP** and **Framer Motion**. 🎨💫  
+
+🔧 **Current Project**: Working on **Binge**, a **movie discovery platform** where users can explore trending and popular movies, search for their favorites, and more. This project is my hands-on playground for mastering **payment gateway integration** — leveling up my skills, one transaction at a time! 💳🚀  
+
+📚 **Forever Curious**: Deep-diving into advanced **TypeScript** concepts because there's always more to learn in this tech adventure. 🌱💡  
+
 
 ---
 
