@@ -56,8 +56,6 @@ I'm here to grow, collaborate and  build cool stuff that may break the internet 
 
 - [**HR Sphere**](https://hr-sphere.vercel.app/): _Ongoing Project_  
   A human resource management system focused on streamlining HR workflows.
-   
-- [**Portfolio Website**](https://oseji.vercel.app/): Showcasing my projects and skills.  
 
 ---
 
