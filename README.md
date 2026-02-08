@@ -13,7 +13,7 @@ The dev experience helps — I understand how things are built, which makes find
 **QA Engineering:**
 - Selenium automation (Page Object Model)
 - API testing with Postman and Swagger
-- Database validation and debugging
+- MongoDB validation and debugging
 - Manual and automated testing across web applications
 - Process improvements and documentation
 
@@ -68,6 +68,6 @@ Learning: Cypress, Playwright, mobile testing (Android Studio, Logcat, Fiddler),
 
 ## Contact
 
-- Portfolio: [ose oziegbes portfolio]([https://oseji.vercel.app/](https://ose-oziegbes-portfolio.vercel.app/))  
+- Portfolio: [ose-oziegbes-portfolio.vercel.app](https://ose-oziegbes-portfolio.vercel.app/)  
 - LinkedIn: [Ose (John) Oziegbe](https://www.linkedin.com/in/ose-oziegbe-648154254)  
-- Email: [oseoziegbe0@gmail.com](mailto:oseoziegbe0@gmail.com)  
+- Email: [oseoziegbe0@gmail.com](mailto:oseoziegbe0@gmail.com)
