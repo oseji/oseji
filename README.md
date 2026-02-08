@@ -13,7 +13,7 @@ The dev experience helps — I understand how things are built, which makes find
 **QA Engineering:**
 - Selenium automation (Page Object Model)
 - API testing with Postman and Swagger
-- MongoDB validation and debugging
+- Database validation and debugging
 - Manual and automated testing across web applications
 - Process improvements and documentation
 
@@ -29,14 +29,15 @@ The dev experience helps — I understand how things are built, which makes find
 ## Tech Stack
 
 **QA & Testing:**
-- Selenium WebDriver, Page Object Model
-- Postman, Swagger
-- MongoDB
-- Jira, Git, GitHub
+- Selenium WebDriver (Frontend automation)
+- Postman, Swagger (API testing)
+- MongoDB (Database validation)
+- Jira
+- Git, GitHub
 
 **Development:**
 - JavaScript, TypeScript
-- React, Next.js, Redux Toolkit, TailwindCSS
+- React, Next.js, TailwindCSS, Redux Toolkit, Zustand
 - GSAP, Framer Motion
 
 ---
@@ -67,7 +68,6 @@ Learning: Cypress, Playwright, mobile testing (Android Studio, Logcat, Fiddler),
 
 ## Contact
 
-- Portfolio: [oseji.vercel.app](https://oseji.vercel.app/)  
+- Portfolio: [ose oziegbes portfolio]([https://oseji.vercel.app/](https://ose-oziegbes-portfolio.vercel.app/))  
 - LinkedIn: [Ose (John) Oziegbe](https://www.linkedin.com/in/ose-oziegbe-648154254)  
 - Email: [oseoziegbe0@gmail.com](mailto:oseoziegbe0@gmail.com)  
-- Location: Lagos, Nigeria
