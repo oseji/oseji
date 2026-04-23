@@ -4,7 +4,7 @@
 
 I test software for a living, with a background in frontend development and over 2 years in QA, working mostly in fintech.
 
-The dev experience helps — I understand how things are built, which makes finding (and preventing) bugs easier.
+The dev experience helps, so I understand how things are built, which makes finding (and preventing) bugs easier.
 
 ---
 
