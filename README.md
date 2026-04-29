@@ -1,9 +1,6 @@
 # Hi, I'm Ose
-
 ## QA Engineer
-
 I test software for a living, with a background in frontend development and over 2 years in QA, working mostly in fintech.
-
 The dev experience helps, so I understand how things are built, which makes finding (and preventing) bugs easier.
 
 ---
@@ -12,12 +9,13 @@ The dev experience helps, so I understand how things are built, which makes find
 
 **QA Engineering:**
 - Selenium automation (Page Object Model)
+- Mobile automation with Appium and WebdriverIO
 - API testing with Postman and Swagger
 - MongoDB validation and debugging
-- Manual and automated testing across web applications
+- Manual and automated testing across web and mobile applications
 - Process improvements and documentation
 
-**Development background:**
+**Frontend Development background:**
 - Built full-featured web apps with React, Next.js, and TypeScript
 - Integrated APIs to fetch and display data
 - Focused on UX and responsive design
@@ -29,10 +27,12 @@ The dev experience helps, so I understand how things are built, which makes find
 ## Tech Stack
 
 **QA & Testing:**
-- Selenium WebDriver (Frontend automation)
+- Selenium WebDriver (web automation)
+- Appium + WebdriverIO (mobile automation)
 - Postman, Swagger (API testing)
 - MongoDB (Database validation)
-- Jira
+- Android Studio, Logcat, Fiddler (mobile debugging)
+- Jira, Qase
 - Git, GitHub
 
 **Development:**
@@ -43,31 +43,28 @@ The dev experience helps, so I understand how things are built, which makes find
 ---
 
 ## Currently
-
-Learning: Cypress, Playwright, mobile testing (Android Studio, Logcat, Fiddler), and performance testing with JMeter.
+Deepening mobile automation skills and learning performance testing with JMeter.
 
 ---
 
-## Projects
+## Personal Projects
 
 **QA/Testing:**
 - [**Swag Labs Automation Suite**](https://github.com/oseji/Swag-Labs-Automation-Project) - E2E UI automation with TypeScript, Selenium WebDriver, and Page Object Model. Covers authentication, product listing, sorting, cart, checkout, and app menu flows.
 
-**Development:**
+**Frontend Development:**
 - [**Binge**](https://binge-beta.vercel.app/) - Movie discovery platform with auth, search, and payment integration
 - [**Pennywise**](https://pennywise-oseji.vercel.app/) - Personal finance tracker for managing income, expenses, budgets, and savings
 
 ---
 
 ## Stats
-
 ![Ose's GitHub stats](https://github-readme-stats.vercel.app/api?username=oseji&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oseji&layout=compact&theme=radical)
 
 ---
 
 ## Contact
-
 - Portfolio: [ose-oziegbes-portfolio.vercel.app](https://ose-oziegbes-portfolio.vercel.app/)  
-- LinkedIn: [Ose (John) Oziegbe](https://www.linkedin.com/in/ose-oziegbe-648154254)  
+- LinkedIn: [Ose (John) Oziegbe](https://www.linkedin.com/in/ose-oziegbe)  
 - Email: [oseoziegbe0@gmail.com](mailto:oseoziegbe0@gmail.com)
