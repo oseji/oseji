@@ -66,5 +66,5 @@ Deepening mobile automation skills and learning performance testing with JMeter.
 
 ## Contact
 - Portfolio: [ose-oziegbes-portfolio.vercel.app](https://ose-oziegbes-portfolio.vercel.app/)  
-- LinkedIn: [Ose (John) Oziegbe](https://www.linkedin.com/in/ose-oziegbe)  
+- LinkedIn: [Ose Oziegbe](https://www.linkedin.com/in/ose-oziegbe)  
 - Email: [oseoziegbe0@gmail.com](mailto:oseoziegbe0@gmail.com)
