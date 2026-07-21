@@ -42,7 +42,7 @@ Deepening mobile automation skills.
 **QA/Testing:**
 - [**Swag Labs Automation Suite**](https://github.com/oseji/Swag-Labs-Automation-Project) - E2E UI automation with TypeScript, Selenium WebDriver, and Page Object Model. Covers authentication, product listing, sorting, cart, checkout, and app menu flows.
 - [**Restful Booker k6 Project**](https://github.com/oseji/restful-booker-k6-project) - k6 load test chaining auth, booking creation, updates, and deletion, with business-logic assertions, a staged load profile up to 25 VUs, and per-endpoint thresholds.
----
+
 **Frontend Development:**
 - [**Pennywise**](https://pennywise-oseji.vercel.app/) - Personal finance tracker for managing income, expenses, budgets, and savings
 ---
